@@ -1,5 +1,6 @@
 
-Instructions
+Instructions to GIT
+
 2. https://github.com/EljMorgan/IronElnara
 3. Cloned 
 4. https://github.com/EljMorgan/IronElnara/blob/master/about.txt
@@ -8,5 +9,6 @@ Pair Programming
 
 1. Forked to https://github.com/Baudouin-LAD/IronBaudouin
 2. Cloned https://github.com/EljMorgan/IronBaudouin
-3.  https://github.com/EljMorgan/IronBaudouin/blob/main/elis.txt
+3.  Pushed file https://github.com/EljMorgan/IronBaudouin/blob/main/elis.txt
 4. Pull request made
+5. Forked to my profile https://github.com/EljMorgan/IronElnara/blob/master/Baudouin.txt
