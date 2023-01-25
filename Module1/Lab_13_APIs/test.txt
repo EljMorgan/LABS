@@ -1,0 +1,21 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "password": "oneone", 
+    "username": "one@one.com"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate, br", 
+    "Content-Length": "38", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "User-Agent": "python-requests/2.28.1", 
+    "X-Amzn-Trace-Id": "Root=1-63d12ed0-05d5c4366d63a1bb61af6037"
+  }, 
+  "json": null, 
+  "origin": "185.146.221.98", 
+  "url": "https://httpbin.org/post"
+}
